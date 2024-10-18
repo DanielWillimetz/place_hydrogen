@@ -1,2 +1,21 @@
-# place_hydrogen
-Python script for placing hydrogen atoms on organic molecules (C, O, N elements) with maintaining structural symmetry.
+Description
+
+Script for placing hydrogen atoms on organic structures (C, O, N elemets only) in a molecular form or in an inorganic framework with option to maintain symmetry of the system.
+
+
+# Requirements
+
+- Python 3.x
+- ASE (Atomic Simulation Environment) version 3.x and higher
+- NumPy version 1.x and higher
+- Spglib version 2.x and higher
+
+You can install the required packages using pip:
+
+```bash
+pip install ase numpy spglib
+```
+
+## Examples
+
+The directory examples contains multiple examples for both crystal systems and molecular systems
