@@ -1,5 +1,3 @@
-Description
-
 Script for placing hydrogen atoms on organic structures (C, O, N elemets only) in a molecular form or in an inorganic framework with option to maintain symmetry of the system.
 
 
@@ -16,6 +14,6 @@ You can install the required packages using pip:
 pip install ase numpy spglib
 ```
 
-## Examples
+# Examples
 
 The directory examples contains multiple examples for both crystal systems and molecular systems
